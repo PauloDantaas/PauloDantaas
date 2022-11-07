@@ -27,3 +27,4 @@
   </div>    
 
 
+![Snake animation](https://github.com/PauloDantaas/PauloDantaas/blob/output/github-contribution-grid-snake.svg)
