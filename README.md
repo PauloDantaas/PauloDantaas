@@ -1,4 +1,4 @@
-### Oi eu sou Paulo Dantas
+### Oi, Eu sou Paulo Dantas
 
 - 🔭 Dev Full-Stack
 - 🌱 Estudando
