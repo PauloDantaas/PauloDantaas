@@ -2,6 +2,11 @@
 
 - 🔭 Dev Full-Stack
 - 🌱 Estudando
+- ♾️ Lógica - ✔️
+- ♾️ Python - ✔️
+- ♾️ Data Science - Módulo Atual ⚔️ 
+- ♾️ Html/Css - Próximo Módulo
+- ♾️ JavaScript - Próximo Módulo
 
 <div>
   <a href="https://github.com/PauloDantaas">
