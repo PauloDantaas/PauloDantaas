@@ -1,4 +1,4 @@
-### Oi, Eu sou Paulo Dantas
+### Hi, I Am Paulo Dantas
 
 - 🔭 Dev Full-Stack
 - 🔭 ADS
