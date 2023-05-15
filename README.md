@@ -1,6 +1,7 @@
 ### Oi, Eu sou Paulo Dantas
 
 - 🔭 Dev Full-Stack
+- 🔭 ADS
 - 🌱 Estudando
 - ♾️ Lógica - ✔️
 - ♾️ Python - ✔️
