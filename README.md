@@ -4,9 +4,9 @@
 - 🌱 Estudando
 - ♾️ Lógica - ✔️
 - ♾️ Python - ✔️
-- ♾️ Data Science - Módulo Atual ⚔️ 
-- ♾️ Html/Css - Próximo Módulo
-- ♾️ JavaScript - Próximo Módulo
+- ♾️ Data Science - ✔️ 
+- ♾️ Html/Css - ✔️
+- ♾️ JavaScript - Atual
 
 <div>
   <a href="https://github.com/PauloDantaas">
