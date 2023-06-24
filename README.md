@@ -7,7 +7,8 @@
 - ♾️ Python - ✔️
 - ♾️ Data Science - ✔️ 
 - ♾️ Html/Css - ✔️
-- ♾️ JavaScript - Atual
+- ♾️ JavaScript - ✔️
+- ♾️ React js - atual
 
 <div>
   <a href="https://github.com/PauloDantaas">
