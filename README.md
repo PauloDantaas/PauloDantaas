@@ -3,12 +3,6 @@
 - 🔭 Dev Full-Stack
 - 🔭 ADS
 - 🌱 Estudando
-- ♾️ Lógica - ✔️
-- ♾️ Python - ✔️
-- ♾️ Data Science - ✔️ 
-- ♾️ Html/Css - ✔️
-- ♾️ JavaScript - ✔️
-- ♾️ React js - atual
 
 <div>
   <a href="https://github.com/PauloDantaas">
